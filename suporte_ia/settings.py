@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'users',
     'chatbot',
     'tickets',
+    'core',
 ]
 
 MIDDLEWARE = [
